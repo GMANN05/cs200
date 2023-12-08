@@ -1,6 +1,8 @@
 # cs200
 
 
+By: Grant Marcum
+
 IMAGES:
 https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff361628c-7ab1-477c-839a-a7d8d10a21db_2831x1804.png
 https://www.legendsofamerica.com/wp-content/uploads/2017/08/JohnBrinkleySurgery.jpg
